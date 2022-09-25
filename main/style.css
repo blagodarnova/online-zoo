@@ -97,7 +97,7 @@ h1 {
 }
 
 .promo_background {
-  background: url('../../assets/img/Giant Panda.png');
+  background: url('../assets/img/Giant Panda.png');
 	background-repeat: no-repeat;
 	background-position: center 0;
 	max-width: 1600px;
